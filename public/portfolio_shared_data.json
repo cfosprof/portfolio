@@ -1,16 +1,23 @@
 {
   "basic_info": {
     "name": " Chris Foster",
-    "titles": ["Software Developer"],
+    "titles": [
+      "👋 I'm Chris Foster, full-stack java developer with a passion for learning new technologies and solving problems."
+    ],
     "social": [
       {
         "name": "github",
-        "url": "https://github.com",
+        "url": "https://github.com/cfosprof",
         "class": "fab fa-github"
       },
       {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/cfosprof/",
+        "class": "fab fa-linkedin"
+      },
+      {
         "name": "instagram",
-        "url": "https://www.instagram.com",
+        "url": "https://www.instagram.com/hobowithanapple",
         "class": "fab fa-instagram"
       }
     ],
@@ -19,28 +26,28 @@
   "skills": {
     "icons": [
       {
-        "name": "HTML 5",
-        "class": "devicon-html5-plain",
+        "name": "Java",
+        "class": "devicon-java-plain",
         "level": "95"
       },
       {
-        "name": "CSS 3",
-        "class": "devicon-css3-plain",
+        "name": "React",
+        "class": "devicon-react-plain",
         "level": "95"
-      },
-      {
-        "name": "Angular",
-        "class": "devicon-angularjs-plain",
-        "level": "80"
-      },
-      {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
-        "level": "90"
       },
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
+        "level": "80"
+      },
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "90"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain",
         "level": "70"
       },
       {
