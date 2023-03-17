@@ -1,3 +1,5 @@
 # Modify this portfolio
 
-Make it your own! 
+(My Site)[https://chris-foster-portfolio.netlify.app]
+
+My development portfolio. This is a work in progress.
