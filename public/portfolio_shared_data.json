@@ -61,14 +61,9 @@
         "level": "85"
       },
       {
-        "name": "C#",
-        "class": "devicon-csharp-plain",
+        "name": "Python",
+        "class": "devicon-python-plain",
         "level": "65"
-      },
-      {
-        "name": "MySql",
-        "class": "devicon-mysql-plain",
-        "level": "60"
       }
     ]
   }
