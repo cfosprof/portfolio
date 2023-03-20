@@ -4,9 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import { LinkContainer } from "react-router-bootstrap";
 
 class Header extends Component {
-  titles = [
-    "👋 I'm Chris Foster, full-stack java developer with a passion for learning new technologies and solving problems.",
-  ];
+  titles = [];
 
   constructor() {
     super();

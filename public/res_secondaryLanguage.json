@@ -1,6 +1,6 @@
 {
   "basic_info": {
-    "description_header": "Cześć",
+    "description_header": "Me",
     "description": "Hi I'm Chris Foster.",
     "section_name": {
       "about": "O mnie",
@@ -11,8 +11,8 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
+      "title": "Gallery-of-Horns",
+      "startDate": "2023",
       "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
