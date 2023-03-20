@@ -1,107 +1,90 @@
 body[data-theme="dark"] {  
-
    @import '/src/scss/dark-slider.scss';
-
    .slider-tab {
-      background-color: #8C8C8C;
+     background-color: #2f4f4f;
    }
-
    .title-styles {
-      color: white;
+     color: #fffacd;
    }
-
    .header-icon {
-      color: #3C342C;
-      opacity: 0.8;
+     color: #fffacd;
+     opacity: 0.8;
    }
-
    .slider-image {
-      border: 5px solid #8C8C8C;
+     border: 5px solid #2f4f4f;
    }
-
    .language {
-      background-color: #494949;
+     background-color: #424242;
    }
-
    .link-href {
-      color: white;
+     color: #fffacd;
    }
-
    .project-date {
-      background-color: #918e97;
-      color: white;
+     background-color: #556b2f;
+     color: #fffacd;
    }
-
    header {
-      background-color: #494949;
-      h1 {
-         color: white;
-      }
+     background-color: #424242;
+     h1 {
+       color: #fffacd;
+     }
    }
-
    #about {
-      background-color: #7f7f7f;
-      h1 span {
-         color: white;
-      }
-      .polaroid span {
-         background:  #6d6d6d;
-      }
-      .card {
-         background: #6d6d6d;
-         color: white;
-      }
+     background-color: #696969;
+     h1 span {
+       color: #fffacd;
+     }
+     .polaroid span {
+       background:  #808080;
+     }
+     .card {
+       background: #808080;
+       color: #fffacd;
+     }
    }
-
    #portfolio {
-      background: #5b5b5b;
-      .section-title {
-         color: white !important;
-      }
-      .foto div {
-         background: #6d6d6d;
-      }
-      .project-title-settings {
-         color: white;
-      }
+     background: #4b4b4b;
+     .section-title {
+       color: #fffacd !important;
+     }
+     .foto div {
+       background: #808080;
+     }
+     .project-title-settings {
+       color: #fffacd;
+     }
    }
-
    #resume {
-      filter: brightness(80%);
-      background: #5b5b5b;
-      .section-title {
-         color: white !important;
-      }
-
-      .experience-badge {
-         background: #919191 !important;
-         color: white;
-      }
-
-      .main-badge {
-         background: #919191 !important;
-      }
-
-      .vertical-timeline-element-date {
-         color: white;
-      }
-
-      .vertical-timeline-element-icon {
-         background: #919191 !important;
-      }
-      @media only screen and (max-width: 1169px) { 
-         .vertical-timeline-element-date {
-            color: black;
-         }
-      }
+     filter: brightness(80%);
+     background: #4b4b4b;
+     .section-title {
+       color: #fffacd !important;
+     }
+     .experience-badge {
+       background: #556b2f !important;
+       color: #fffacd;
+     }
+     .main-badge {
+       background: #556b2f !important;
+     }
+     .vertical-timeline-element-date {
+       color: #fffacd;
+     }
+     .vertical-timeline-element-icon {
+       background: #556b2f !important;
+     }
+     @media only screen and (max-width: 1169px) { 
+       .vertical-timeline-element-date {
+         color: #000;
+       }
+     }
    }
-
    .modal-inside .modal-content {
-      background: #5b5b5b;
-      color: white;
+     background: #4b4b4b;
+     color: #fffacd;
    }
-
    .close-icon {
-      color: white;
+     color: #fffacd;
    }
-}
+ }
+ 

@@ -21,8 +21,8 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-Java-plain",
+          "name": "Java"
         },
         {
           "class": "devicon-typescript-plain",
@@ -57,7 +57,7 @@
     {
       "title": "3D Object Viewer",
       "startDate": "2015",
-      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+      "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Java. Dużo się nauczyłam!",
       "images": [
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
@@ -65,8 +65,8 @@
       "url": "https://github.com",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-Java-plain",
+          "name": "Java"
         },
         {
           "class": "devicon-typescript-plain",
@@ -84,7 +84,7 @@
       "company": "DefOpenSource",
       "title": "Front-End Developer",
       "years": "10.2019 - obecnie",
-      "mainTech": ["Angular 8/9/10"],
+      "mainTech": ["Java 8/9/10"],
       "technologies": [
         "REST API",
         "RxJS",
@@ -92,14 +92,14 @@
         "Bootstrap",
         "MDBootstrap",
         "EF Core",
-        "Angular Material"
+        "Java Material"
       ]
     },
     {
       "company": "Serros Solutions",
       "title": "Stażystka",
       "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
+      "mainTech": ["Java 7/8"],
       "technologies": [
         "REST API",
         "RxJS",
