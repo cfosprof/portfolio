@@ -2,6 +2,37 @@ body[data-theme="light"] {
     @import '/src/scss/light-slider.scss';
  
     .slider-tab {
-       background-color: #D7CAAA;
+       background-color: #2600e3;
     }
+    header {
+        background-color: white;
+        h1 {
+          color: #fffacd;
+        }
+      }
+      #about {
+        background-color: white;
+        h1 span {
+          color: #fffacd;
+        }
+        .polaroid span {
+          background:  #808080;
+        }
+        .card {
+          background: black ;
+          color: #fffacd;
+        }
+      }
+      #portfolio {
+        background: black;
+        .section-title {
+          color: #fffacd !important;
+        }
+        .foto div {
+          background: #808080;
+        }
+        .project-title-settings {
+          color: #fffacd;
+        }
+      }
 }

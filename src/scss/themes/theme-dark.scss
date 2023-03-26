@@ -24,7 +24,7 @@ body[data-theme="dark"] {
      color: #fffacd;
    }
    header {
-     background-color: #424242;
+     background-color: black;
      h1 {
        color: #fffacd;
      }
@@ -38,12 +38,12 @@ body[data-theme="dark"] {
        background:  #808080;
      }
      .card {
-       background: #808080;
+       background: black ;
        color: #fffacd;
      }
    }
    #portfolio {
-     background: #4b4b4b;
+     background: #14E314;
      .section-title {
        color: #fffacd !important;
      }
@@ -56,7 +56,7 @@ body[data-theme="dark"] {
    }
    #resume {
      filter: brightness(80%);
-     background: #4b4b4b;
+     background: black;
      .section-title {
        color: #fffacd !important;
      }
