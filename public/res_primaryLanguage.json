@@ -15,7 +15,8 @@
       "startDate": "2023",
       "description": "The Horned Beasts Gallery is a React.js web application featuring dynamic filtering and sorting, allowing users to browse a collection of creatures based on the number of horns or other criteria. Users can search for specific creatures and interact with them by favoriting using a heart icon. The app offers a modal display for detailed information and is built using reusable, modular components for easy customization. With its responsive design, the application provides a seamless browsing experience across various devices.. ",
       "images": [
-        "https://images.unsplash.com/photo-1624307297763-2f6e91b38071?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=942&q=80"
+        "images/portfolio/Gallery-of-horns/hbeast.jpg",
+        "images/portfolio/hbeast.jpg"
       ],
       "url": "https://github.com/cfosprof/gallery-of-horns",
       "technologies": [
@@ -42,7 +43,8 @@
       "startDate": "2023",
       "description": "Quizing program where users can test their knowledge and are given resources for topics they don't test well in.",
       "images": [
-        "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+        "images/portfolio/Gallery-of-horns/qodequiz.jpg",
+        "public/images/portfolio/qodequiz.jpg"
       ],
       "url": "https://github.com/4cupsofjava/qode-quiz/",
       "technologies": [
@@ -64,7 +66,8 @@
       "startDate": "2023",
       "description": "A web application that allows users to vote on their preferred product out of a selection of three, with the results displayed in a chart once all votes are cast. Built using HTML, CSS, and JavaScript, and utilizing Chart.js for the chart displaying the voting results. Saved and retrieved data using local storage.",
       "images": [
-        "https://images.unsplash.com/photo-1570586790305-4f115cb439c6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjR8fGR1Y2t8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+        "images/portfolio/Gallery-of-horns//oddduck.jpg",
+        "public/images/portfolio/oddduck.jpg"
       ],
       "url": "https://github.com/cfosprof/oddduck",
       "technologies": [
@@ -79,6 +82,34 @@
         {
           "class":"devicon-css3-plain", "name":"CSS3"
         }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Sysco",
+      "title": "Warehouse Order Selector & Inventory Controller",
+      "years": "08.2021 - Present",
+      "mainTech": ["Inventory Management Systems", "Data Analysis"],
+      "technologies": [
+        "Python",
+        "Excel",
+        "SQL",
+        "Barcode Scanning",
+        "Automated Data Collection"
+      ]
+    },
+    {
+      "company": "Save A Lot Foods",
+      "title": "Warehouse Order Selector & Inventory Controller",
+      "years": "06.2019 - 07.2021",
+      "mainTech": ["Warehouse Management Systems", "Database Management"],
+      "technologies": [
+        "Python",
+        "Excel",
+        "SQL",
+        "JavaScript",
+        "Automated Inventory Tracking"
       ]
     }
   ]

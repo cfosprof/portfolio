@@ -15,8 +15,8 @@
       "startDate": "2023",
       "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
       "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
+        "images/portfolio/hbeast.jpg",
+        "images/portfolio/hbeast.jpg"
       ],
       "url": "",
       "technologies": [
@@ -81,31 +81,29 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - obecnie",
-      "mainTech": ["Java 8/9/10"],
+      "company": "Sysco",
+      "title": "Warehouse Order Selector & Inventory Controller",
+      "years": "08.2021 - Present",
+      "mainTech": ["Inventory Management Systems", "Data Analysis"],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        "Java Material"
+        "Python",
+        "Excel",
+        "SQL",
+        "Barcode Scanning",
+        "Automated Data Collection"
       ]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Stażystka",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Java 7/8"],
+      "company": "Save A Lot Foods",
+      "title": "Warehouse Order Selector & Inventory Controller",
+      "years": "06.2019 - 07.2021",
+      "mainTech": ["Warehouse Management Systems", "Database Management"],
       "technologies": [
-        "REST API",
-        "RxJS",
-        "Swagger",
+        "Python",
+        "Excel",
+        "SQL",
         "JavaScript",
-        "DHTMLX Gantt"
+        "Automated Inventory Tracking"
       ]
     }
   ]
